@@ -1,9 +1,9 @@
 -
-  title: Mountains
-  directory: mountains
+  title: AI Wallpapers
+  directory: ai_wallpapers
   preview:
-    filename: 1.jpg
-    original: 1-thumbnail.jpg
+    filename: Low_Poly_Mountain_Lake_Sunrise_Aurora
+    original: Low_Poly_Mountain_Lake_Sunrise_Aurora.png
     sizes:
-    - 1-thumbnail.jpg
-    thumbnail: 1-thumbnail.jpg
+    - Low_Poly_Mountain_Lake_Sunrise_Aurora_thumbnail.png
+    thumbnail: Low_Poly_Mountain_Lake_Sunrise_Aurora-thumbnail.png
