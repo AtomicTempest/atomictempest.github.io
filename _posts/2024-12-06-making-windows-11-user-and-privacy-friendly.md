@@ -6,7 +6,7 @@ author: atomictempest
 date: '2024-12-06 4:00:00 +1300'
 category: ['guides', 'windows']
 tags: windows11, 
-thumbnail: /assets/img/posts/data_lock.png
+thumbnail: /assets/img/posts/tech_padlock.png
 keywords: Windows11, privacy, UI customization, shell customization, telemetry blocking
 usemathjax: false
 permalink: /blog/making-windows-11-user-and-privacy-friendly/
