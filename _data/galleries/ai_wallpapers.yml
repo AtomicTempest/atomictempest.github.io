@@ -1,0 +1,18 @@
+picture_path: ai_wallpapers
+preview:
+  filename: Low_Poly_Mountain_Lake_Sunrise_Aurora
+  original: Low_Poly_Mountain_Lake_Sunrise_Aurora.png
+  sizes:
+  - Low_Poly_Mountain_Lake_Sunrise_Aurora.png
+  thumbnail: Low_Poly_Mountain_Lake_Sunrise_Aurora-thumbnail.png
+pictures:
+- filename: Low_Poly_Mountain_Lake_Sunrise_Aurora
+  original: Low_Poly_Mountain_Lake_Sunrise_Aurora.png
+  sizes:
+  - Low_Poly_Mountain_Lake_Sunrise_Aurora.png
+  thumbnail: Low_Poly_Mountain_Lake_Sunrise_Aurora-thumbnail.png
+- filename: Vibrant_AI_Cubes
+  original: Vibrant_AI_Cubes.png
+  sizes:
+  - Vibrant_AI_Cubes.png
+  thumbnail: Vibrant_AI_Cubes-thumbnail.png
