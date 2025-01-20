@@ -5,7 +5,7 @@ summary: "Modifying Windows 11 to get an older style UI back. Also disabling mic
 author: atomictempest
 date: '2024-12-06 4:00:00 +1300'
 category: ['guides', 'windows']
-tags: windows11, 
+tags: windows11, privacy
 thumbnail: /assets/img/posts/tech_padlock.png
 keywords: Windows11, privacy, UI customization, shell customization, telemetry blocking
 usemathjax: false
@@ -22,7 +22,7 @@ Now I had resisted upgrading to Windows 11 for a while now. Mainly because I dis
 
 The first part of making Windows 11 better comes when installing Windows 11 and doing the first setup. The TLDR is that bypassing using a Microsoft account and using a local account instead makes Windows 11 much better. Based on what I've seen and heard from other people. By using a local account, I've skipped lots of popups, OneDrive ads, and all sorts of Microsoft bullshit by not using a Microsoft account.
 
-So how do you skip logging into a Microsoft account? Well, it's not hard. Simply follow the Windows 11 install progress until you get to the "Choose a country" screen. Next hit Shift + F10. A command prompt should appear. Then type OOBE\BYPASSNRO and hit enter. The computer will reboot and return you to the same screen. Next you need to disable the internet. The simplest way is to unplug any ethernet cable. A potentially faster way is to open the command prompt again and type ipconfig /release and hit enter. Then just continue the installation. Once it gets to the point of trying to connect to the internet, it should have a button that says, I don't have Internet. After that you will also have a button, Continue with limited setup. The rest is pretty self-explanatory. If any of this was confusing or doesn't work, there are tonnes of more detailed guides out there on the internet that are easy to find and may be more up to date with any changes Microsoft has made.
+So how do you skip logging into a Microsoft account? Well, it's not hard. Simply follow the Windows 11 install progress until you get to the "Choose a country" screen. Next hit `Shift + F10`. A command prompt should appear. Then type OOBE\BYPASSNRO and hit enter. The computer will reboot and return you to the same screen. Next you need to disable the internet. The simplest way is to unplug any ethernet cable. A potentially faster way is to open the command prompt again and type `ipconfig /release` and hit enter. Then just continue the installation. Once it gets to the point of trying to connect to the internet, it should have a button that says, I don't have Internet. After that you will also have a button, Continue with limited setup. The rest is pretty self-explanatory. If any of this was confusing or doesn't work, there are tonnes of more detailed guides out there on the internet that are easy to find and may be more up to date with any changes Microsoft has made.
 
 ## Part 2 - Making Windows 11 more privacy friendly
 
