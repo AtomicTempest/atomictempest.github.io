@@ -3,7 +3,7 @@ layout: post
 title:  "Simple Windows Security Tips"
 summary: "Some simple ways to increase your windows security against malware, hackers and more."
 author: atomictempest
-date: '2024-12-06 4:00:00 +1300'
+date: '2025-01-09 4:00:00 +1300'
 category: ['guides', 'windows']
 tags: windows11, security
 thumbnail: /assets/img/posts/tech_padlock.png
